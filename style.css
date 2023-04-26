@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 :root{
-    --fondo: #000;
+    --fondo: #deb887;
     --figura: #ddd;
 }
 
@@ -13,22 +13,23 @@
 body {
     font-family: Helvetica, Arial, sans-serif;
     background: var(--fondo);
-    color: var(--figura);
+    color: #454444;
 }
 
 body.portada{
-    background:var(--fondo) url('images/portada.jpg') right bottom no-repeat;
+    background:var(--fondo) url('imagen/studio.jpg.jpg') right bottom no-repeat;
     background-size:auto 100%;
+    color: #454444;
 }
 
 a {
     font-weight: bold;
-    color: rgba(255, 255, 255, 0.5);
+    color: #454444;
     text-decoration: none;
 }
 
 a:hover {
-    color: rgba(255, 255, 255, 0.75);
+    color: #454444;
 }
 
 :hover{
@@ -56,7 +57,7 @@ nav p, footer p {
 }
 
 .active {
-    text-decoration: underline;
+    text-decoration: none;
     color: white;
 }
 
@@ -108,7 +109,7 @@ main article{
     float:left;
     margin:1%;
     width:18%;
-    background:rgba(255,255,255,0.1);
+    background: #deb887 ;
 }
 
 main article img{
