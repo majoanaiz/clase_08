@@ -18,7 +18,7 @@
                 </section>
             </main>
             <footer>
-                <p><a href="#">Nombre Apellido</a> <a href="#">DNO037</a></p>
+                <p><a href="#">María José Anaiz</a> <a href="#">DNO037</a></p>
             </footer>
         </div>
 
@@ -28,7 +28,7 @@
         <script>
             $(function () {
                 var n = new URLSearchParams(window.location.search).get("nro");
-                $.getJSON("https://raw.githubusercontent.com/majoanaiz/dno037-2023/main/clase_08/datos.json", function (data) {
+                $.getJSON("https://raw.githubusercontent.com/majoanaiz/clase_08/main/datos.json", function (data) {
                     console.log(data);
                     if (n !== null) {
                         $("section").append("<h1>" + data[n].name + "</h1><h4>" + data[n].director + " (" + data[n].year + ')</h4><img src="images/' + data[n].pic_lg + '"><p>' + data[n].description + '</p><h3>Trailer</h3><p>Puedes ver algunas escenas de la película en <a href="' + data[n].trailer + '" target="_blank">Youtube</a><p>');
