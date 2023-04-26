@@ -1,0 +1,74 @@
+[
+    {
+        "name": "El viaje de Chihiro",
+        "year": 2001,
+        "director": "Hayao Miyazaki",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=FP5YViBSyOw",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "El castillo ambulante",
+        "year": 2004,
+        "director": "Hayao Miyazaki",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=TioZt2aBZVE",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "Mi vecino Totoro",
+        "year": 1988,
+        "director": "Hayao Miyazaki",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=k63HyzHyzOg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "La princesa Mononoke",
+        "year": 1997,
+        "director": "Hayao Miyazaki",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=fewgtwknN2I",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "Susurros del corazón",
+        "year": 1995,
+        "director": "Yoshifumi Kondo",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ywFbbZXMsGs",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "Nicky, la aprendiz de bruja",
+        "year": 1989,
+        "director": "Hayao Miyazaki",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=4bG17OYs-GA",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "El recuerdo de Marnie",
+        "year": 2014,
+        "director": "Hiromasa Yonebayashi",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=JeDyp2JkvEs",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    },
+    {
+        "name": "Puedo escuchar el mar",
+        "year": 1993,
+        "director": "Tomomi Mochizuki",
+        "pic_sm": "foto-1-chica.jpg",
+        "pic_lg": "foto-1-grande.jpg",
+        "trailer": "https://www.youtube.com/watch?v=qNh9t_HlJR0",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel enim vitae dolor suscipit mollis at eget elit. Pellentesque mattis, arcu non dignissim mollis, velit risus imperdiet felis, maximus venenatis felis felis eu dui. Nunc dui tellus, maximus a eleifend tempus, porta eget tortor. Vivamus sed auctor tellus. Vestibulum finibus massa ex, eget tempor nisi efficitur et. Vivamus sodales est venenatis metus fermentum hendrerit. Donec sollicitudin a leo quis euismod. Aliquam enim lacus, cursus non pharetra vitae, fermentum in justo. Integer consectetur sed augue nec porta. Morbi ornare blandit sem. Fusce ex nisi, interdum non gravida sed, sollicitudin eget quam. Mauris in lobortis arcu, id ultricies turpis."
+    }
+]
