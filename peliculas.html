@@ -13,7 +13,7 @@
                 <p><a href="index.html">Portada</a> <a href="peliculas.html" class="active">Películas</a> <a href="ganancias.html">Ganancias</a></p>
             </nav>
             <main>
-                <section></section>
+                <!--acá se meten las películas-->
             </main>
             <footer>
                 <p><a href="#">María José Anaiz</a> <a href="#">DNO037</a></p>
@@ -25,7 +25,7 @@
         <!--Y ahora podemos usarlo-->
         <script>
             $(function () {
-                $.getJSON("https://raw.githubusercontent.com/majoanaiz/dno037-2023/main/clase_08/datos.json", function (data) {
+                $.getJSON("https://raw.githubusercontent.com/majoanaiz/clase_08/main/datos.json", function (data) {
                     console.log(data);
                     //un forEach para construir cada trabajo
                     data.forEach(function (p, i) {
