@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 :root{
-    --fondo: ##07addb;
+    --fondo: #07addb;
     --figura: #ddd;
 }
 
@@ -17,7 +17,7 @@ body {
 }
 
 body.portada{
-    background:var(--fondo) url('imagen/portada.jpg') right bottom no-repeat;
+    background:var(--fondo) url('portada.jpg') right bottom no-repeat;
     background-size:auto 100%;
     color: #454444;
 }
@@ -109,7 +109,7 @@ main article{
     float:left;
     margin:1%;
     width:18%;
-    background: ##07addb ;
+    background: #deb887 ;
 }
 
 main article img{
