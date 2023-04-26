@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 :root{
-    --fondo: #deb887;
+    --fondo: ##07addb;
     --figura: #ddd;
 }
 
@@ -109,7 +109,7 @@ main article{
     float:left;
     margin:1%;
     width:18%;
-    background: #deb887 ;
+    background: ##07addb ;
 }
 
 main article img{
